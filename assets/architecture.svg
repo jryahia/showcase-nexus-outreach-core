@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 410" width="960" height="410" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="960" height="410" rx="14" fill="#0d1117"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#06b6d4"/></marker></defs>
+<text x="165" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">INPUTS</text>
+<text x="480" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">PIPELINE</text>
+<text x="795" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">OUTPUTS</text>
+<rect x="40" y="144" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="165" y="169.5" fill="#e6edf3" font-size="14" text-anchor="middle">Public business directories</text>
+<text x="165" y="186.5" fill="#e6edf3" font-size="14" text-anchor="middle">and listings</text>
+<rect x="40" y="218" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="165" y="243.5" fill="#e6edf3" font-size="14" text-anchor="middle">Business websites</text>
+<text x="165" y="260.5" fill="#e6edf3" font-size="14" text-anchor="middle">(contact pages)</text>
+<rect x="355" y="70" width="250" height="58" rx="9" fill="#0b2229" stroke="#06b6d4" stroke-width="1.5"/>
+<text x="480" y="95.5" fill="#e6edf3" font-size="14" text-anchor="middle">Collection on background</text>
+<text x="480" y="112.5" fill="#e6edf3" font-size="14" text-anchor="middle">threads</text>
+<rect x="355" y="144" width="250" height="58" rx="9" fill="#0b2229" stroke="#06b6d4" stroke-width="1.5"/>
+<text x="480" y="178" fill="#e6edf3" font-size="14" text-anchor="middle">Website enrichment</text>
+<rect x="355" y="218" width="250" height="58" rx="9" fill="#0b2229" stroke="#06b6d4" stroke-width="1.5"/>
+<text x="480" y="243.5" fill="#e6edf3" font-size="14" text-anchor="middle">Cleaning and</text>
+<text x="480" y="260.5" fill="#e6edf3" font-size="14" text-anchor="middle">do-not-contact gate</text>
+<rect x="355" y="292" width="250" height="58" rx="9" fill="#0b2229" stroke="#06b6d4" stroke-width="1.5"/>
+<text x="480" y="326" fill="#e6edf3" font-size="14" text-anchor="middle">Paced campaign engine</text>
+<rect x="670" y="70" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795" y="95.5" fill="#e6edf3" font-size="14" text-anchor="middle">Local SQLite vault</text>
+<text x="795" y="112.5" fill="#e6edf3" font-size="14" text-anchor="middle">(WAL)</text>
+<rect x="670" y="144" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795" y="169.5" fill="#e6edf3" font-size="14" text-anchor="middle">Analytics, map and</text>
+<text x="795" y="186.5" fill="#e6edf3" font-size="14" text-anchor="middle">lead graph</text>
+<rect x="670" y="218" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795" y="243.5" fill="#e6edf3" font-size="14" text-anchor="middle">Outreach from the</text>
+<text x="795" y="260.5" fill="#e6edf3" font-size="14" text-anchor="middle">operator&#x27;s own mailboxes</text>
+<rect x="670" y="292" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795" y="317.5" fill="#e6edf3" font-size="14" text-anchor="middle">Optional webhook</text>
+<text x="795" y="334.5" fill="#e6edf3" font-size="14" text-anchor="middle">(n8n / GoHighLevel)</text>
+<path d="M290,173 C340,173 309,99 351,99" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M290,247 C340,247 309,173 351,173" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M480,128 L480,140" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M480,202 L480,214" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M480,276 L480,288" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,247 C655,247 624,99 666,99" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,247 C655,247 624,173 666,173" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,321 C655,321 624,247 666,247" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,321 C655,321 624,321 666,321" stroke="#06b6d4" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+</svg>
