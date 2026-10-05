@@ -24,7 +24,7 @@ Lead-generation SaaS is expensive and keeps your lead data on someone else's ser
 
 ## Key features
 
-- Local-first: no account, no telemetry, lead data never leaves the machine
+- Local-first: no account or telemetry; leads are stored locally, and outbound traffic is only the pages it fetches and an optional webhook you configure
 - Multi-source collection with website enrichment for listings that hide contact details
 - List hygiene: dedup, syntax checks, role-inbox and false-positive filtering, do-not-contact list
 - Paced sending with daily caps; STOP cancels mid-delay instead of after the current wait
